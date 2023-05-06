@@ -1,14 +1,16 @@
 import * as url from 'url'
 import React from 'react'
 import arrayDestruct from '../assets/portfolio/arrayDestruct.jpg'
-import installNode from '../assets/portfolio/installNode.jpg'
+import installNode from '../assets/portfolio/nodebackend.png'
 import navbar from '../assets/portfolio/navbar.jpg'
 import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg'
-import reactWeather from '../assets/portfolio/reactWeather.jpg'
+import reactWeather from '../assets/portfolio/reactWeather.png'
+import financeTracker from '../assets/portfolio/FinanceTracker.png'
+import ecommerce from '../assets/portfolio/ecommerce.png'
 import usestate from '../assets/portfolio/usestate.jpg'
- 
-
+import cloudinfra from "../assets/portfolio/cloudInfra.png"
+import cloudbacked from "../assets/portfolio/awsbackend.png"
 function Portfolio() {
 
     const handleDemoUrl = (url) => {
@@ -19,33 +21,33 @@ function Portfolio() {
     const portfolio = [
     {
         id: 1,
-        src: arrayDestruct,
-        url:"https://google.com",
-        codeurl:"https://google.com"
+        src: cloudinfra,
+        url:"https://github.com/reeteshkesarwani/aws-infra",
+        codeurl:"https://github.com/reeteshkesarwani/aws-infra"
     },
     {
         id: 2,
-        src: reactParallax,
-        url:"https://google.com",
-        codeurl:"https://google.com"
-    },
+        src: cloudbacked,
+        url:"https://github.com/reeteshkesarwani/webapp",
+        codeurl:"https://github.com/reeteshkesarwani/webapp"
+    },                                                                                              
     {
         id: 3,
-        src: navbar,
-        url:"https://google.com",
-        codeurl:"https://google.com"
+        src: ecommerce,
+        url:"https://gogroceryy.onrender.com/",
+        codeurl:"https://github.com/reeteshkesarwani/FinalProject_WebDesign"
     },
     {
         id: 4,
-        src: reactSmooth,
-        url:"https://google.com",
-        codeurl:"https://google.com"
+        src: financeTracker,
+        url:"https://drive.google.com/file/d/1mWrZeHgGdysOd2svTRlyilhWCyQBs56_/view",
+        codeurl:"https://github.com/reeteshkesarwani/MoneyMasters"
     },
     {
         id: 5,
         src: installNode,
         url:"https://google.com",
-        codeurl:"https://google.com"
+        codeurl:"https://github.com/reeteshkesarwani/INFO6150-20821-Web-Design-User-Experien/tree/main/Assignment%208"
     },
     {
         id: 6,
