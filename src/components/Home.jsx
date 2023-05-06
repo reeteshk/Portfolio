@@ -28,6 +28,7 @@ const Home = () => {
               </span>
             </Link>
           </div>
+          
         </div>
      <div>
         <img src={HeroImage} alt="My profile" className="rounded-2xl mx-auto w-1/4 md:w-1/2" />
