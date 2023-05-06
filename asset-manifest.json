@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3fe53ccc.css",
+    "main.js": "/Portfolio/static/js/main.168a3c55.js",
+    "static/media/nodebackend.png": "/Portfolio/static/media/nodebackend.b8994665bda150e17584.png",
+    "static/media/reactWeather.png": "/Portfolio/static/media/reactWeather.0df80cf3c1c9a615fd59.png",
+    "static/media/ecommerce.png": "/Portfolio/static/media/ecommerce.7707f626706b57397f48.png",
+    "static/media/awsbackend.png": "/Portfolio/static/media/awsbackend.62e85caab05c8cbf3138.png",
+    "static/media/heroImage.jpg": "/Portfolio/static/media/heroImage.3c211afd29fc699118ce.jpg",
+    "static/media/reactParallax.jpg": "/Portfolio/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
+    "static/media/FinanceTracker.png": "/Portfolio/static/media/FinanceTracker.8b88853358dbef5a2d7f.png",
+    "static/media/cloudInfra.png": "/Portfolio/static/media/cloudInfra.f00c3789c49921ab1557.png",
+    "static/media/graphql.png": "/Portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/reactSmooth.jpg": "/Portfolio/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
+    "static/media/springjava.png": "/Portfolio/static/media/springjava.76c4a3ed7b9af736c750.png",
+    "static/media/arrayDestruct.jpg": "/Portfolio/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
+    "static/media/navbar.jpg": "/Portfolio/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
+    "static/media/usestate.jpg": "/Portfolio/static/media/usestate.153ef3529fa4deb47617.jpg",
+    "static/media/springboot.png": "/Portfolio/static/media/springboot.ccb24dbfafd5947a4978.png",
+    "static/media/java.png": "/Portfolio/static/media/java.c2b00928f137daef3eb4.png",
+    "static/media/mongodb.jpg": "/Portfolio/static/media/mongodb.4f2502fd45bf4eb82bff.jpg",
+    "static/media/aws.png": "/Portfolio/static/media/aws.9b4139add45d642a8d0e.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/Portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.3fe53ccc.css.map": "/Portfolio/static/css/main.3fe53ccc.css.map",
+    "main.168a3c55.js.map": "/Portfolio/static/js/main.168a3c55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe53ccc.css",
+    "static/js/main.168a3c55.js"
+  ]
+}
