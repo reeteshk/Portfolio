@@ -14,7 +14,7 @@ function About() {
             <p className='text-xl mt-20'>
             Passionate about Software development and currently a graduate student at Northeastern University. 
             After the completion of my Bachelor from VIT Vellore, 
-        India worked for Virtusa consultancy services, Hyderabad, India for 2 years as a back-end engineer.
+        India worked for Virtusa consultancy services, Hyderabad, India for 2 years as a Full-Stack developer.
         Having a track record of developing code and digital solutions using cutting-edge technologies in mostly financial services.
         My work mainly revolve around developing new features for the insurance application from end to end. 
         Other than that was also responsible for the production support where it needed to resolve defects in real-time.
