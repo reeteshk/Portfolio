@@ -19,8 +19,7 @@ const Home = () => {
                     <p className="text-gray-500 py-4 max-w-md text-lg">
                         I'm a passionate developer who is always looking for new challenges. I love learning new things and building things.
                         currently Student at the Northeastern University, Boston.
-                        I love to learn new things and build things.
-                        I have Experience in Java Frameworks and ReactJS
+                        I have Experience in Java Frameworks, FrontEnd Technologies,Cloud Technologies and ReactJS
                     </p>
                     <div>
                         <Link
