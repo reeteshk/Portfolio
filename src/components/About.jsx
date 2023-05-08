@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div name="about" className='w-full h-screen bg-gradient-to-b from-gray-800 to-black w-max-content mx-auto h-max-content text-white'>
+    <div name="about" className='display-flex flex-col justify-center items-center w-full h-screen bg-gradient-to-b from-gray-800 to-black w-max-content mx-auto my-auto h-max-content text-white'>
       
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
@@ -11,7 +11,7 @@ function About() {
             </p>
         </div>
         <div>
-            <p className='text-xl mt-20'>
+            <p className='text-xl mt-20'>    
             Passionate about Software development and currently a graduate student at Northeastern University. 
             After the completion of my Bachelor from VIT Vellore, 
         India worked for Virtusa consultancy services, Hyderabad, India for 2 years as a Full-Stack developer.
