@@ -2,7 +2,7 @@ import React from 'react'
 import { FaGithub,FaLinkedin} from 'react-icons/fa';   
 import {HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
-
+import {SiLeetcode} from 'react-icons/si'
 
 
 function SocialLinks() {
@@ -44,6 +44,17 @@ function SocialLinks() {
                 </>
             ),
             href:"https://drive.google.com/file/d/1DoFkiAhpQxWpaWt9iOJs-brPZx6ARWjR/view",
+            style: 'rounded-tr-md',
+            download:true,
+        },
+        {
+            id: 5,
+            child: (
+                <>
+                Leetcode <SiLeetcode size={30} />
+                </>
+            ),
+            href:"https://leetcode.com/Reetesh88/",
             style: 'rounded-tr-md',
             download:true,
         },
