@@ -15,7 +15,7 @@ function SocialLinks() {
                 LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href:"https://www.linkedin.com/in/reeteshkesarwani/",
+            href:"https://www.linkedin.com/in/reeteshk/",
             style: 'rounded-tr-md'
         },
         {
@@ -25,7 +25,7 @@ function SocialLinks() {
                 Github <FaGithub size={30} />
                 </>
             ),
-            href:"https://github.com/reeteshkesarwani",
+            href:"https://github.com/reeteshk",
         },
         {
             id: 3,
@@ -54,7 +54,7 @@ function SocialLinks() {
                 Leetcode <SiLeetcode size={30} />
                 </>
             ),
-            href:"https://leetcode.com/Reetesh88/",
+            href:"https://leetcode.com/Reeteshk",
             style: 'rounded-tr-md',
             download:true,
         },
